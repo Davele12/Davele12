@@ -24,7 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Streaming:** Apache Kafka, Apache Spark Streaming
 
 #### 📊 Visualization & BI
-- Power BI, Tableau, Plotly, Excel
+- Power BI, Plotly
 
 #### 🛠️ Development & Others
 - **Version Control:** Git, GitHub, GitLab  
